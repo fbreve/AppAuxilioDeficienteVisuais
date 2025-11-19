@@ -1,0 +1,2 @@
+C:/Users/henri/StudioProjects/auxilio_visual_app/android/app/.cxx/Debug/6e40193e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/henri/StudioProjects/auxilio_visual_app/android/app/.cxx/Debug/6e40193e/armeabi-v7a/CMakeFiles/rebuild_cache.dir

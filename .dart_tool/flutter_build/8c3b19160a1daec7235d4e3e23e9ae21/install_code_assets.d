@@ -1,0 +1,1 @@
+ C:\\Users\\henri\\StudioProjects\\auxilio_visual_app\\.dart_tool\\flutter_build\\8c3b19160a1daec7235d4e3e23e9ae21\\native_assets.json: 
